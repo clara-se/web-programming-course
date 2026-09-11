@@ -32,3 +32,18 @@ section{
 img {
     width: 300px;
 }
+
+label {
+    font-weight: bold;
+}
+
+input, textarea {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
